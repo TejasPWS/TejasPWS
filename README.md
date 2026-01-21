@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I am Tejas
 
-<!--
-**TejasPWS/TejasPWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/TejasPWS.png" height=250 width=150>
 
-Here are some ideas to get you started:
+^^^ Yup! This is me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="/TejasCool.png" height=250 width=150>
+
+^^^ And this too!
+
+Yea, this is my account you see... (My school account)
+
+If you wanna check my main profile, go <a href="https://github.com/SunriseCoding">here</a>
+and you can check out my website <a href="https://sunrisecoding.github.io">here</a>
+
+So, au revoir mon ami! (French)
